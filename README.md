@@ -1,4 +1,3 @@
-Certainly! Here's the description for the README.md file of your project on GitHub:
 Cross-Platform Code Editor
 
 This is a "TRY" cross-platform code editor developed in Python that resembles Visual Studio Code (VSCode). 
